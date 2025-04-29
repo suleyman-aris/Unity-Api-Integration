@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76448823-AE82-420D-BE68-875AD0B6FCA1}|Login.csproj|c:\\users\\suley\\source\\repos\\login\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76448823-AE82-420D-BE68-875AD0B6FCA1}|Login.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76448823-AE82-420D-BE68-875AD0B6FCA1}|Login.csproj|c:\\users\\suley\\source\\repos\\login\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76448823-AE82-420D-BE68-875AD0B6FCA1}|Login.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76448823-AE82-420D-BE68-875AD0B6FCA1}|Login.csproj|c:\\users\\suley\\source\\repos\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76448823-AE82-420D-BE68-875AD0B6FCA1}|Login.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76448823-AE82-420D-BE68-875AD0B6FCA1}|Login.csproj|c:\\users\\suley\\source\\repos\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76448823-AE82-420D-BE68-875AD0B6FCA1}|Login.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7FF55-58D4-41EE-8BC5-B193457B4893}|..\\Login.Data\\Login.Data.csproj|c:\\users\\suley\\source\\repos\\login.data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA67BDB-A657-4CB6-8D2F-ABB24D49E8D0}|..\\Login.Business\\Login.Business.csproj|c:\\users\\suley\\source\\repos\\login.business\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7FF55-58D4-41EE-8BC5-B193457B4893}|..\\Login.Data\\Login.Data.csproj|c:\\users\\suley\\source\\repos\\login.data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA67BDB-A657-4CB6-8D2F-ABB24D49E8D0}|..\\Login.Business\\Login.Business.csproj|c:\\users\\suley\\source\\repos\\login.business\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7FF55-58D4-41EE-8BC5-B193457B4893}|..\\Login.Data\\Login.Data.csproj|c:\\users\\suley\\source\\repos\\login.data\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7FF55-58D4-41EE-8BC5-B193457B4893}|..\\Login.Data\\Login.Data.csproj|c:\\users\\suley\\source\\repos\\login.data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T20:16:07.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:58:27.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login.Business\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Login.Business\\UserService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login.Business\\UserService.cs",
+              "RelativeToolTip": "..\\Login.Business\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:50:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login.Business\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Login.Business\\IUserService.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login.Business\\IUserService.cs",
+              "RelativeToolTip": "..\\Login.Business\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:49:33.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login.Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Login.Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login.Data\\UserRepository.cs",
+              "RelativeToolTip": "..\\Login.Data\\UserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:47:49.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login.Data\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Login.Data\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login.Data\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Login.Data\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:43:08.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:03:33.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T21:02:55.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login.Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Login.Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login.Data\\UserDbContext.cs",
+              "RelativeToolTip": "..\\Login.Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:34:20.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Login.Data\\User.cs",
+              "RelativeDocumentMoniker": "..\\Login.Data\\User.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Login.Data\\User.cs",
+              "RelativeToolTip": "..\\Login.Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:30:07.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
